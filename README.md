@@ -11,14 +11,14 @@
 
 - [Awesome uniapp](#awesome-uniapp)
 - [uniapp 模板](#uniapp模板)
-  - [unibest](#unibest)
+  - [unibest Vue3](#unibest)
 - [UI框架](#ui框架)
   - [uni-ui](#uni-ui)
   - [ColorUI](#colorui)
   - [uView2.0](#uview20)
   - [uv-ui](#uv-ui)
   - [uview-plus](#uview-plus)
-  - [Wot Design Uni](#wot-design-uni)
+  - [Wot Design Uni Vue3](#wot-design-uni)
   - [tuniao-ui](#tuniao-ui)
 - [功能组件](#功能组件)
   - [canvas海报画板、海报生成、海报图](#canvas海报画板海报生成海报图)
@@ -54,8 +54,6 @@
   - [uni-create-view](#uni-create-view)
 ---
 
-### Awesome uniapp
-A curated list of awesome things related to uniapp
 
 ### uniapp模板
 
