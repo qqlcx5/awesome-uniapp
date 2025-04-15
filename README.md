@@ -1,15 +1,16 @@
 <p align="center">
   <br>
-  <img width="400" src="./assets/logo.svg" alt="logo of vue-awesome repository">
+  <img width="400" src="./assets/logo.png" alt="logo of uniapp-awesome repository">
   <br>
   <br>
 </p>
 
 > A curated list of awesome things related to uniapp
+> 
 ## Awesome Uniapp
 
 - [Awesome uniapp](#awesome-uniapp)
-- [uniapp 模板](#uniapp-模板)
+- [uniapp 模板](#uniapp模板)
   - [unibest](#unibest)
 - [UI框架](#ui框架)
   - [uni-ui](#uni-ui)
@@ -56,7 +57,8 @@
 ### Awesome uniapp
 A curated list of awesome things related to uniapp
 
-### uniapp 模板
+### uniapp模板
+
 - [unibest 是由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI](https://github.com/feige996/unibest)
 
 ### UI框架
