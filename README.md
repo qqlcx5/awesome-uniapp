@@ -59,7 +59,7 @@ A curated list of awesome things related to uniapp
 
 ### uniapp模板
 
-- [unibest 是由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI](https://github.com/feige996/unibest)
+- [unibest](https://github.com/feige996/unibest) - 是由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI
 
 ### UI框架
 - [uni-ui](https://ext.dcloud.net.cn/plugin?id=55)
